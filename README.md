@@ -1,37 +1,92 @@
-# ⚡ Merhaba Ben Lightning! ⚡
-
 <div align="center">
-  <h3>"Kod yazıyorum çünkü yeraltı patronları hala bana hak ettiğim değeri vermedi."</h3>
-  <br>
-  <img src="https://media.tenor.com/b216ZtWwA18AAAAC/hack-hacker.gif" width="400" alt="Coding GIF">
+
+# ⚜️ M4vian
+
+### Software Engineer • Security Enthusiast • System Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Reliable+Systems;Security+Focused+Development;Performance+Driven+Engineering;Turning+Ideas+Into+Products" />
+
 </div>
 
 ---
 
-### 🕵️‍♂️ Hacker mıyım? Developer mıyım? 
-Aslında sadece Google'da "How to fix undefined is not a function" aratan ve bulduğu StackOverflow kodlarını `Ctrl+C` `Ctrl+V` yapan bir illüzyonistim. Ancak yazdığım kodlar çalışınca kendimi matrix'te gibi hissediyorum.
+## ⚔️ About Me
 
-- 🔨 Şiddetle savunduğum fikrim: *Eğer bir kod warning atıp çalışmaya devam ediyorsa, o warning bir feature'dur.*
-- 🚀 Şu an ne üzerinde çalışıyorum: **Muhtemelen gece 3'te Discord'dan gelen saçma sapan log mesajlarını anlamaya.**
-- 💬 Bana sormayın: *"Neden Java yerine C#?"* Asla bilemeyeceğiz. Sadece kurallara itaat edin.
+Software development is more than writing code; it is the discipline of transforming ideas into scalable, reliable, and enduring systems.
 
-### 💻 Stack & Teknoloji Yığınları
-(Bildiğim şeyler / Bildiğimi iddia ettiğim şeyler)
+My focus lies in engineering solutions that combine performance, security, and maintainability. I value clean architecture, thoughtful design, and technologies that solve real-world problems.
 
-![Python](https://img.shields.io/badge/Python-191919?style=for-the-badge&logo=python&logoColor=3776AB)
-![C#](https://img.shields.io/badge/C%23-191919?style=for-the-badge&logo=c-sharp&logoColor=239120)
-![PHP](https://img.shields.io/badge/PHP-191919?style=for-the-badge&logo=php&logoColor=777BB4) 
-![JavaScript](https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-191919?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![StackOverflow](https://img.shields.io/badge/StackOverflow-191919?style=for-the-badge&logo=stackoverflow&logoColor=FE7A16)
+* ⚜️ Designing modern and scalable software systems
+* 🔐 Prioritizing security, reliability, and resilience
+* 🚀 Building products with performance-oriented architecture
+* 🧠 Solving complex problems through elegant engineering
+* 🏛️ Following industry standards and best practices
+* 🎯 Creating solutions that deliver long-term value
 
 ---
 
-### ⚡ Bana Ulaşın
+## 🛠️ Tech Stack
 
-Genelde karanlık bir odada 17 tane terminal sekmesi açıkken ekrana boş boş bakıyor olurum nhưng yinede şuradan ulaşabilirsiniz:
+<div align="center">
 
-- 💬 Discord: `@7x5g` (DM'ler açık, ama kodu bedavaya yazmamı isterseniz engellerim 🗿 tabikide şaka)
+<img src="https://skillicons.dev/icons?i=linux,python,javascript,typescript,nodejs,react,nextjs,mongodb,postgres,mysql,docker,git,github,vscode,bash" />
 
-<br>
-<p align="center"><i>"A system reboot fixes 90% of IT problems. The other 10% is DNS."</i></p>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=m4vian&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m4vian&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=m4vian&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=m4vian&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4vian&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🧭 Philosophy
+
+> "Excellence is not achieved by chance. It is engineered through discipline, precision, and persistence."
+
+---
+
+<div align="center">
+
+### ⚜️ M4VIAN
+
+Building systems that last.
+
+</div>
