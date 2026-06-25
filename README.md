@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚜️ M4vian
+# ⚜️ Lightning
 
 ### Software Engineer • Security Enthusiast • System Builder
 
@@ -39,9 +39,9 @@ My focus lies in engineering solutions that combine performance, security, and m
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=m4vian&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=easylightning&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m4vian&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=easylightning&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -51,7 +51,7 @@ My focus lies in engineering solutions that combine performance, security, and m
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=m4vian&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=easylightning&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -61,7 +61,7 @@ My focus lies in engineering solutions that combine performance, security, and m
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=m4vian&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=easylightning&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -71,7 +71,7 @@ My focus lies in engineering solutions that combine performance, security, and m
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4vian&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=easylightning&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -85,7 +85,7 @@ My focus lies in engineering solutions that combine performance, security, and m
 
 <div align="center">
 
-### ⚜️ M4VIAN
+### ⚜️ Lightning
 
 Building systems that last.
 
